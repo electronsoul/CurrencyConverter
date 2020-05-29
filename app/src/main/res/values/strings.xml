@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="head_1">Dollar To Rupee Converter</string>
+    <string name="dollars">Enter Amount In Dollars</string>
+    <string name="button">Convert It</string>
+    <string name="head_2">Converted Amount</string>
+    <string name="bnkpic">Bank Picture</string>
+</resources>
